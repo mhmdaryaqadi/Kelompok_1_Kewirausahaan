@@ -1,6 +1,6 @@
 <div align="center">
 
-# RANCANG BANGUN SISTEM MANAJEMEN ANTREAN DAN PEMESANAN DIGITAL BERBASIS WEB
+# Identifikasi Permasalahan dan Validasi Peluang Bisnis Di Sekitar Kampus
 ### “Untuk memenuhi tugas pada mata kuliah Kewirausahaan”
 
 <br>
