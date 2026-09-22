@@ -11,16 +11,19 @@
 
 ### Disusun Oleh Kelompok 1:
 
-| Nama Anggota | NPM |
-| :--- | :--- |
-| Alifian Revan Arnanta | 4524210010 |
-| Muhammad Arya Alqadi | 4524210058 |
-| Larasati Dewi | 4525210037 |
-| Adityawan Syahputra | 4525210001 |
+| Nama Anggota | NPM | Peran |
+| :--- | :---: | :--- |
+| Alifian Revan Arnanta | 4524210010 |  |
+| Muhammad Arya Alqadi | 4524210058 |  |
+| Larasati Dewi | 4525210037 |  |
+| Adityawan Syahputra | 4525210001 |  |
 
 <br>
 
-**Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
+**Komunikasi Tim:** WhatsApp Group & Discord  
+
+
+**Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom.
 
 <br>
 
@@ -29,3 +32,18 @@
 ## 2026
 
 </div>
+
+---
+
+## A. Daftar 10 Problem Statement
+
+
+---
+
+## B. Tabel Pemeringkatan Masalah
+
+
+---
+
+## C. Tiga Masalah Teratas yang Dipilih untuk Tahap Validasi
+
