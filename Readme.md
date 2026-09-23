@@ -13,10 +13,10 @@
 
 | Nama Anggota | NPM | Peran |
 | :--- | :---: | :--- |
-| Alifian Revan Arnanta | 4524210010 |  |
-| Muhammad Arya Alqadi | 4524210058 |  |
-| Larasati Dewi | 4525210037 |  |
-| Adityawan Syahputra | 4525210001 |  |
+| Alifian Revan Arnanta | 4524210010 | Product & Discovery |
+| Muhammad Arya Alqadi | 4524210058 | Tech Lead |
+| Larasati Dewi | 4525210037 | Go-to-Market & Kepatuhan |
+| Adityawan Syahputra | 4525210001 | Bisnis, Keuangan & Data Metrik |
 
 <br>
 
