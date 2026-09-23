@@ -50,7 +50,7 @@
 ---
 
 ## C. Tiga Masalah Teratas yang Dipilih untuk Tahap Validasi
-2. *Kesalahan Pencatatan Pesanan pada Kedai Kopi Sekitar Kampus (Peringkat 2)*  
+2. **Kesalahan Pencatatan Pesanan pada Kedai Kopi Sekitar Kampus (Peringkat 2)**  
 Kondisi ini terjadi setiap hari saat jam kumpul mahasiswa sedang ramai, di mana pelayan masih mencatat pesanan pada lembar kertas kecil dan membawanya manual ke dapur. Akibatnya sering terjadi kesalahan penyajian menu, waktu tunggu pelanggan menjadi terlalu lama, hingga pembatalan pesanan yang terlewat. Lokasi kedai kopi berada tepat di sekitar area kampus sehingga tim dapat dengan mudah melakukan observasi langsung dan mewawancarai pemilik maupun pramusaji.
-3. *Pengelolaan Antrean Berkas Cetak di Kios Fotokopi Kampus (Peringkat 3)*  
+3. **Pengelolaan Antrean Berkas Cetak di Kios Fotokopi Kampus (Peringkat 3)**  
 Aktivitas cetak dokumen tugas dan skripsi berlangsung intensif setiap hari kerja dengan kendala pencolokan media penyimpanan eksternal yang rentan menyebarkan virus ke komputer operasional kios. Kios fotokopi berada tepat di area fakultas, memungkinkan tim mengamati proses kerja secara langsung dan mewawancarai staf operasional kios di sela-sela jam perkuliahan.
