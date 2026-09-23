@@ -45,6 +45,8 @@
 | :---: | :--- | :--- | :--- | :--- | :---: |
 | 1 | *Pengumpulan Bukti Pengeluaran Anggaran Panitia Acara* | Berkala (setiap kepanitiaan berjalan) | Selisih kas operasional dalam laporan pertanggungjawaban | Sangat mudah dijangkau di lingkungan organisasi kemahasiswaan | *Peringkat 1* |
 | 2 | *Pemeriksaan Bukti Bayar QRIS di Kantin Kampus* | Harian (jam makan siang) | Kehilangan omzet tunai secara langsung | Sangat mudah ditemui di area kantin kampus setiap hari | *Peringkat 2* |
+| 3 | *Pengelolaan Antrean Berkas Cetak di Kios Fotokopi* | Harian | Waktu tunggu antrean memanjang dan komputer kasir rentan tertular virus | Sangat mudah ditemui di kios fotokopi lingkungan kampus | *Peringkat 3* |
+| 4 | Pengujian Berkas Tugas Praktikum oleh Asisten Lab | Berkala tiap modul praktikum | Penundaan pelaporan nilai mahasiswa ke sistem akademik | Sangat mudah karena rekan satu program studi Informatika | Peringkat 4 |
 
 ---
 
