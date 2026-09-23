@@ -37,6 +37,10 @@
 
 ## A. Daftar 10 Problem Statement
 
+1.  Pemilik warung makan di kantin kampus mengalami kendala dalam memastikan keaslian transaksi pembayaran non-tunai saat melayani antrean makan siang yang padat. Saat ini pedagang hanya memeriksa sekilas tampilan layar ponsel pembeli, sehingga kerap mengalami kerugian pendapatan akibat menerima tangkapan layar pembayaran lama atau bukti transfer palsu.
+2.  Pengelola usaha penatu kiloan di sekitar area indekos kesulitan memantau tahapan cucian dan ketersediaan stok deterjen ketika volume pesanan melonjak drastis. Mereka saat ini masih mencatat seluruh data operasional pada buku nota kertas, sehingga pakaian pelanggan kerap tertukar, proses pengerjaan melewati batas waktu, dan pemilik usaha harus menanggung beban ganti rugi.
+3.  
+
 
 ---
 
