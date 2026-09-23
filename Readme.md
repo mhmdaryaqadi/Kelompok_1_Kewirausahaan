@@ -63,4 +63,5 @@
 ---
 
 ## C. Tiga Masalah Teratas yang Dipilih untuk Tahap Validasi
-
+1. **Pengujian Berkas Tugas Praktikum oleh Asisten Lab (Peringkat 1)**  
+Masalah ini muncul secara berkala pada setiap modul praktikum pemrograman, di mana asisten lab harus mengunduh dan menguji berkas kode mahasiswa satu per satu secara manual. Beban verifikasi orisinalitas dan fungsionalitas program yang tinggi berisiko menunda batas akhir pelaporan nilai ke sistem informasi akademik. Narasumber merupakan rekan satu program studi Informatika, sehingga proses wawancara mendalam dapat dilakukan secara langsung dan fleksibel tanpa hambatan birokrasi.
