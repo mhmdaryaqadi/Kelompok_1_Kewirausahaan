@@ -39,7 +39,9 @@
 
 1.  Pemilik warung makan di kantin kampus mengalami kendala dalam memastikan keaslian transaksi pembayaran non-tunai saat melayani antrean makan siang yang padat. Saat ini pedagang hanya memeriksa sekilas tampilan layar ponsel pembeli, sehingga kerap mengalami kerugian pendapatan akibat menerima tangkapan layar pembayaran lama atau bukti transfer palsu.
 2.  Pengelola usaha penatu kiloan di sekitar area indekos kesulitan memantau tahapan cucian dan ketersediaan stok deterjen ketika volume pesanan melonjak drastis. Mereka saat ini masih mencatat seluruh data operasional pada buku nota kertas, sehingga pakaian pelanggan kerap tertukar, proses pengerjaan melewati batas waktu, dan pemilik usaha harus menanggung beban ganti rugi.
-3.  
+3.  Asisten laboratorium komputer kesulitan menguji fungsionalitas dan memeriksa orisinalitas berkas tugas praktikum mahasiswa pada periode evaluasi akhir semester. Asisten harus mengunduh berkas satu per satu untuk dijalankan manual pada komputer lokal, sehingga proses penilaian tertunda dan batas akhir penginputan nilai ke sistem informasi akademik terlewati.
+4.  Bendahara kepanitiaan kegiatan mahasiswa kesulitan mengumpulkan berkas bukti pengeluaran divisi secara terpusat ketika kegiatan operasional berlangsung. Saat ini panitia hanya mengumpulkan nota fisik dan tangkapan layar transfer melalui grup pesan singkat, sehingga bukti pembayaran kerap tercecer dan penyusunan laporan pertanggungjawaban mengalami selisih perhitungan kas.
+5.  Mahasiswa tingkat akhir kesulitan mendapatkan kepastian jadwal bimbingan berkala karena agenda dinas dosen pembimbing kerap berubah tanpa pemberitahuan terpadu. Mahasiswa terpaksa menunggu tanpa kepastian di lorong ruang dosen selama berjam-jam, sehingga proses pengerjaan revisi terhambat dan durasi masa studi berisiko bertambah.
 
 
 ---
