@@ -41,7 +41,10 @@
 ---
 
 ## B. Tabel Pemeringkatan Masalah
-
+| No | Fokus Masalah | Frekuensi Kejadian | Biaya / Risiko bila Diabaikan | Akses ke Pengguna | Peringkat Prioritas |
+| :---: | :--- | :--- | :--- | :--- | :---: |
+| 1 | *Pengumpulan Bukti Pengeluaran Anggaran Panitia Acara* | Berkala (setiap kepanitiaan berjalan) | Selisih kas operasional dalam laporan pertanggungjawaban | Sangat mudah dijangkau di lingkungan organisasi kemahasiswaan | *Peringkat 1* |
+| 2 | *Pemeriksaan Bukti Bayar QRIS di Kantin Kampus* | Harian (jam makan siang) | Kehilangan omzet tunai secara langsung | Sangat mudah ditemui di area kantin kampus setiap hari | *Peringkat 2* |
 
 ---
 
