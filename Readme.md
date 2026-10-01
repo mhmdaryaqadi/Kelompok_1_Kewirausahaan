@@ -47,7 +47,6 @@
 9.  Panitia turnamen olahraga elektronik antarmahasiswa kesulitan memvalidasi keaslian kepemilikan akun dan tingkatan kompetisi peserta sebelum pertandingan resmi dimulai. Panitia memeriksa gambar tangkapan layar profil peserta secara manual satu per satu, sehingga jadwal pertandingan mengalami penundaan waktu yang cukup lama dan integritas kompetisi terganggu akibat indikasi pemakaian joki akun.
 10. Pengurus komunitas olahraga mahasiswa kesulitan mengumpulkan dana iuran sewa lapangan secara tertib karena tingkat kehadiran anggota tidak konsisten. Pengurus terpaksa menggunakan dana pribadi terlebih dahulu untuk menutupi biaya sewa fasilitas, sehingga kas operasional komunitas mengalami defisit dan menyisakan piutang internal yang tidak tertagih.
 
-
 ---
 
 ## B. Tabel Pemeringkatan Masalah
@@ -63,6 +62,7 @@
 | 8 | Penagihan Dana Iuran Sewa Fasilitas Komunitas Olahraga | Mingguan | Pengurus menalangi kekurangan dana sewa fasilitas | Sangat mudah dalam jejaring internal kelompok sendiri | Peringkat 8 |
 | 9 | Penagihan Termin Jasa Mahasiswa Mandiri (Freelancer) | Berbasis proyek | Arus kas personal operasional terganggu | Terbatas pada mahasiswa yang sedang aktif mengambil proyek lepas | Peringkat 9 |
 | 10 | Pemeriksaan Keaslian Akun Turnamen Game Mahasiswa | Insidental tiap turnamen | Waktu pertandingan mundur akibat indikasi joki akun | Membutuhkan koordinasi teknis dengan panitia kegiatan daring | Peringkat 10 |## B. Tabel Pemeringkatan Masalah
+
 ---
 
 ## C. Tiga Masalah Teratas yang Dipilih untuk Tahap Validasi
@@ -72,3 +72,7 @@ Masalah ini muncul secara berkala pada setiap modul praktikum pemrograman, di ma
 Kondisi ini terjadi setiap hari saat jam kumpul mahasiswa sedang ramai, di mana pelayan masih mencatat pesanan pada lembar kertas kecil dan membawanya manual ke dapur. Akibatnya sering terjadi kesalahan penyajian menu, waktu tunggu pelanggan menjadi terlalu lama, hingga pembatalan pesanan yang terlewat. Lokasi kedai kopi berada tepat di sekitar area kampus sehingga tim dapat dengan mudah melakukan observasi langsung dan mewawancarai pemilik maupun pramusaji.
 3. **Pengelolaan Antrean Berkas Cetak di Kios Fotokopi Kampus (Peringkat 3)**  
 Aktivitas cetak dokumen tugas dan skripsi berlangsung intensif setiap hari kerja dengan kendala pencolokan media penyimpanan eksternal yang rentan menyebarkan virus ke komputer operasional kios. Kios fotokopi berada tepat di area fakultas, memungkinkan tim mengamati proses kerja secara langsung dan mewawancarai staf operasional kios di sela-sela jam perkuliahan.
+
+---
+
+Link Wawancara: https://drive.google.com/file/d/1dDwO_-gGGlMNHP3Ru6Ki9T6lxujCIi1r/view?usp=sharing
