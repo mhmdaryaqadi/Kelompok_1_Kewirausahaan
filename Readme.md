@@ -76,3 +76,5 @@ Aktivitas cetak dokumen tugas dan skripsi berlangsung intensif setiap hari kerja
 ---
 
 Link Wawancara: https://drive.google.com/file/d/1dDwO_-gGGlMNHP3Ru6Ki9T6lxujCIi1r/view?usp=sharing
+
+Link Presentasi: https://canva.link/t6xr3wy4y353cyi
